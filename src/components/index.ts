@@ -8,3 +8,4 @@ export { default as Popover } from './Popover';
 export { default as Player } from './Player';
 export { default as Slider } from './Slider';
 export { default as Subtitle } from './Subtitle';
+export { default as StreamPlayer } from './StreamPlayer';
